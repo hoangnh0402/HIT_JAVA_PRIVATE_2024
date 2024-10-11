@@ -7,9 +7,10 @@ Chào mừng các bạn đến với khóa học Java! Trong buổi đầu tiên
 
 ## 👋 Giới Thiệu & Làm Quen Mọi Người
 
-- **Giới thiệu giảng viên và học viên**
+- **Giới thiệu Leader, Supporter và bạn HIT15**
 - **Tạo không khí thân thiện và khuyến khích sự tương tác**
 - **Hoạt động nhỏ để mọi người biết nhau hơn**
+- **Mọi người sẽ được gặp gỡ, trò chuyện với các anh chị cựu của lớp Java, hãy suy nghĩ và đặt các câu hỏi cho anh chị để được giải đáp thắc mắc nhá!**
 
 ---
 
