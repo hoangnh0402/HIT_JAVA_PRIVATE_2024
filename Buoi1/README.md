@@ -22,7 +22,7 @@ GitHub là công cụ quan trọng giúp chúng ta quản lý mã nguồn và n�
 git add .
 git commit -m "Initial commit"
 git push -u origin main
-🖥️ Cấu Trúc Chương Trình Java
+## 🖥️ Cấu Trúc Chương Trình Java
 Hiểu rõ cấu trúc cơ bản của một chương trình Java là bước đầu quan trọng để viết mã hiệu quả.
 
 ```java
@@ -36,9 +36,10 @@ Class: Định nghĩa một lớp trong Java
 Method: Phương thức main là điểm bắt đầu của chương trình
 Statement: Câu lệnh in ra màn hình
 
-📥📤 Nhập, Xuất & Kiểu Dữ Liệu
+##📥📤 Nhập, Xuất & Kiểu Dữ Liệu
 Nhập Dữ Liệu
 Sử dụng lớp Scanner để nhận dữ liệu từ người dùng.
+
 ```java
 import java.util.Scanner;
 
@@ -53,13 +54,13 @@ public class InputExample {
 Xuất Dữ Liệu
 Sử dụng System.out.println để hiển thị thông tin.
 
-Kiểu Dữ Liệu
+## Kiểu Dữ Liệu
 Số nguyên: int, long
 Thực: float, double
 Ký tự: char
 Logic: boolean
 Chuỗi: String
-📝 Biến & Quy Tắc Đặt Tên Biến, Class
+## 📝 Biến & Quy Tắc Đặt Tên Biến, Class
 Biến
 Biến là nơi lưu trữ dữ liệu.
 ```java
@@ -71,7 +72,7 @@ Quy Tắc Đặt Tên
 Biến: camelCase (fullName, totalAmount)
 Class: PascalCase (Student, EmployeeService)
 Không dùng ký tự đặc biệt hoặc bắt đầu bằng số
-➕➖ Phép Toán & Toán Tử
+## ➕➖ Phép Toán & Toán Tử
 Java hỗ trợ nhiều toán tử để thực hiện các phép toán cơ bản và nâng cao.
 
 Các Toán Tử Cơ Bản
@@ -80,6 +81,7 @@ Trừ: -
 Nhân: *
 Chia: /
 Chia lấy dư: %
+
 ```java
 int a = 10;
 int b = 3;
@@ -89,6 +91,7 @@ System.out.println("a - b = " + (a - b)); // 7
 System.out.println("a * b = " + (a * b)); // 30
 System.out.println("a / b = " + (a / b)); // 3
 System.out.println("a % b = " + (a % b)); // 1
+
 Toán Tử So Sánh
 Bằng: ==
 Khác: !=
@@ -100,6 +103,7 @@ Toán Tử Logic
 Và: &&
 Hoặc: ||
 Phủ định: !
+
 ```java
 boolean isAdult = age >= 18;
 boolean hasPermission = true;
