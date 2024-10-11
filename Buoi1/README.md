@@ -164,4 +164,4 @@ if (isAdult && hasPermission) {
 
 ---
 
-Hãy cùng thực hành những nội dung trên và chuẩn bị cho buổi tiếp theo! 💪
+Hãy cùng thực hành những nội dung trên và chuẩn bị cho buổi học nha! 💪
