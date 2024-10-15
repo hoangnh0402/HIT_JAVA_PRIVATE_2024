@@ -13,7 +13,7 @@ public class Main {
 
         System.out.print("Nhập độ dài cạnh thứ ba (c): ");
         c = scanner.nextInt();
-        
+
         if (a > 0 && b > 0 && c > 0) {
             if (a + b > c && a + c > b && b + c > a) {
                 System.out.println("Ba số " + a + ", " + b + ", " + c + " có thể là độ dài 3 cạnh của một tam giác.");
