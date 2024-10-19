@@ -13,7 +13,7 @@ if (number > 0) {
 } else {
     System.out.println("Số âm");
 }
-
+```
 ### 1.2. Câu lệnh `switch-case` 🔄
 Câu lệnh `switch-case` được sử dụng để thay thế cho nhiều câu lệnh if-else khi so sánh một biến với nhiều giá trị.
 **Ví dụ**
@@ -32,6 +32,8 @@ switch (day) {
     default:
         System.out.println("Ngày không hợp lệ");
 }
+```
+
 ## 2. Vòng lặp 🔁
 ### 2.1. Vòng lặp `for` 🔄
 Dùng để lặp qua một đoạn mã số lần cố định.
@@ -40,6 +42,7 @@ Dùng để lặp qua một đoạn mã số lần cố định.
 for (int i = 0; i < 5; i++) {
     System.out.println("i = " + i);
 }
+```
 ### 2.2. Vòng lặp `while` 🔄
 Lặp khi điều kiện còn đúng.
 **Ví dụ**
@@ -49,8 +52,8 @@ while (i < 5) {
     System.out.println("i = " + i);
     i++;
 }
-
-### 2.3. 2.3. Vòng lặp `do-while` 🔄
+```
+### 2.3. Vòng lặp `do-while` 🔄
 Lặp ít nhất một lần và sau đó kiểm tra điều kiện.
 **Ví dụ**
 ```java
@@ -59,6 +62,7 @@ do {
     System.out.println("i = " + i);
     i++;
 } while (i < 5);
+```
 ## Hàm và hằng trong Java
 
 1. Hàm
