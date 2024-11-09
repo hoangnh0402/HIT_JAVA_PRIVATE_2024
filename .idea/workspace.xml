@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b607d75-239e-4c32-9970-9fdb0fa21946" name="Changes" comment="" />
+    <list default="true" id="7b607d75-239e-4c32-9970-9fdb0fa21946" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Buoi3/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi3/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi4_1/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buoi4_1/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Buoi3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Buoi4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buoi4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Buoi4/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +46,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/HIT_JAVA_PRIVATE_2024/Buoi3/Buoi3.iml",
+    "last_opened_file_path": "D:/HIT_JAVA_PRIVATE_2024",
     "onboarding.tips.debug.path": "D:/HIT_JAVA_PRIVATE_2024/Buoi3/src/Main.java"
   }
 }]]></component>
