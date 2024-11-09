@@ -131,7 +131,7 @@ public class Main {
 - Lưu ý:
   - Để ghi đè phương thức lớp cha thì phương thức lớp con cần có phạm vi truy cập bằng hoặc rộng hơn phương thức lớp cha: private -> default -> protected -> public
   - Phương thức static và final không thể bị ghi đè
-## 2. Nạp chồng phương thức( Method Overloading)
+## Nạp chồng phương thức( Method Overloading)
 
 - Nạp chồng phương thức cho phép bạn định nghĩa nhiều phương thức cùng tên trong cùng một lớp, nhưng có tham số khác nhau (kiểu tham số hoặc số lượng tham số).
 
