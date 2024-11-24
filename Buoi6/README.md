@@ -235,7 +235,7 @@ public class Entry {
 
 - Lưu ý: khi biến của lớp cha tham chiếu tới đối tượng của lớp con thì biến này chỉ có thể gọi tới các thuộc tính và phương thức có ở lớp cha và nếu lớp con ghi đè thì phương thức được gọi sẽ ở lớp con
 
-```
+
 
 ## List, ArrayList trong Java OOP
 
