@@ -17,21 +17,26 @@ public class IUserServiceImpl implements IUserService {
     }
 
     @Override
-    public void login(Scanner scanner){
-        System.out.print("Enter email: ");
-        String email = scanner.nextLine();
-        System.out.print("Enter password: ");
-        String password = scanner.nextLine();
+    public void login(Scanner scanner) throws Exception{
+        try{
+            System.out.print("Enter email: ");
+            String email = scanner.nextLine();
+            System.out.print("Enter password: ");
+            String password = scanner.nextLine();
 
-        for(User user : userList){
-            if(user.getEmail().equals(email) && user.getPassword().equals(password)){
-                currentUser = user;
-                System.out.println("Login successfully!");
-                return;
+            for(User user : userList){
+                if(user.getEmail().equals(email) && user.getPassword().equals(password)){
+                    currentUser = user;
+                    System.out.println("Login successfully!");
+                    return;
+                }
             }
+        } catch (Exception e) {
+            System.out.println("Invalid email or password!");
+            e.printStackTrace();
         }
 
-        System.out.println("Invalid email or password!");
+
     }
 
     @Override
